@@ -10,6 +10,7 @@ sudo apt install python3-boto3  -y
 sudo apt install mysql-client -y                                          #To Install Mysql-Client
 sudo apt install python3-pymysql -y                                       #Python app connection to RDS
 
+cd /home/ubuntu/
 git clone https://github.com/Nikhil-tr/AWSProject1.git
 
 #mysql -h database-1.csbbg.ap-south-1.rds.amazonaws.com -u admin -p       #To-Connect to RDS
