@@ -5,9 +5,9 @@
 #custombucket = "S3-bucketname"
 #customregion = "us-east-1"
 
-customhost = "db1.cruiqa6ogvdx.ap-south-1.rds.amazonaws.com"
+customhost = "db1.c1a8umimc7ma.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admin1234567"
 customdb = "projdb"
-custombucket = "proj-bucket-494273343511"
-customregion = "ap-south-1"
+custombucket = "mugfd494273343511"
+customregion = "us-east-1"
