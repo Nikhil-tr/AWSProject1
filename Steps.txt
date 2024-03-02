@@ -1,5 +1,10 @@
 Steps For the Project
 ----------------------
+1. Create an IAM User and Create Access Token
+
+  -> create provider.tf file
+  -> git clone 
+  -> terraform init,plan,apply
 
 1. Run the Terraform Script
   
